@@ -263,7 +263,7 @@ function navigateToNextScreen() {
     } else {
         showNavigationMessage('Opening Welcome Page...');
       //  window.location.href = 'welcome.html';
-          window.location.href = 'https://play.google.com/store/apps/details?id=com.surveytaps.pesaearn';
+          window.location.href = 'https://play.google.com/store/apps/details?id=com.paidosurvs.pesa';
     }
 }
 
